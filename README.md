@@ -24,8 +24,8 @@
          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
          <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
          <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
-         <br/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
+         <br/><img src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white">
+         <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
          <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">
          <br/>
          </div>
@@ -35,6 +35,5 @@
    <h2 style="border-bottom: 1px solid #; color: #282d33;"> 🏅 Stats </h2> 
        <div style="text-align: left;"> 
              <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YSH1214&layout=compact&hide=javascript,css,scss&langs_count=8"/>
-<img src=https://github-readme-stats.vercel.app/api?username=YSH1214&show_icons=true
-         /> </div> 
+            <img src=https://github-readme-stats.vercel.app/api?username=YSH1214&show_icons=true/> </div> 
    </div>
