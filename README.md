@@ -32,6 +32,5 @@
   <br/>
   
    <div style="text-align: left;"> 
-            <img src=https://github-readme-stats.vercel.app/api?username=ella6010&show_icons=true/> </div> 
             <br/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ella6010&layout=compact&hide=javascript,css,scss&langs_count=8"/>
    </div>
