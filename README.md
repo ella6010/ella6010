@@ -19,9 +19,9 @@
 <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
-<br/><img src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white">
+<br/><img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=SASS&logoColor=white">
+<img src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">
 <br/>
  
    <br/>
@@ -31,6 +31,6 @@
  
   <br/>
   
-   <div style="text-align: left;"> 
-            <br/><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ella6010&locale=en&hide_title=false&layout=compact&card_width=600&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+   <div style="text-align: center;"> 
+            <br/><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ella6010&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
    </div>
