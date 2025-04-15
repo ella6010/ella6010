@@ -32,5 +32,5 @@
   <br/>
   
    <div style="text-align: left;"> 
-            <br/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ella6010&layout=compact&hide=javascript,css,scss&langs_count=8"/>
+            <br/><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ella6010&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="100" alt="languages graph"  />
    </div>
