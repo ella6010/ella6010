@@ -2,8 +2,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=1CA5B1&height=150&section=header&text=Ella's%20Code%20Farm&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
   
-####  :wave: Welcome my github profile !
-
+####  :wave: Welcome my profile !
+<p>:art: Graphic designer</p>
+<p>:art: UI/UX designer</p>
+<p>:memo: Front-end developer</p>
   
  <br/>
  <br/>
